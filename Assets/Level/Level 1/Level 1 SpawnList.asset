@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5276025c5a486d347a1ea4da05d86e0a, type: 3}
+  m_Name: Level 1 SpawnList
+  m_EditorClassIdentifier: 
+  point:
+  - enemyPrefab: {fileID: 3053489294453715385, guid: f529437a83d6e8043a209b73cd35af34,
+      type: 3}
+    spawnPoint: {x: 8, y: 8, z: 0}
+    spawnType: 1
+    count: 2
+    radius: 5
+  - enemyPrefab: {fileID: 3053489294453715385, guid: f529437a83d6e8043a209b73cd35af34,
+      type: 3}
+    spawnPoint: {x: 56, y: 24, z: 0}
+    spawnType: 1
+    count: 2
+    radius: 5
+  - enemyPrefab: {fileID: 3053489294453715385, guid: f529437a83d6e8043a209b73cd35af34,
+      type: 3}
+    spawnPoint: {x: 56, y: 8, z: 0}
+    spawnType: 1
+    count: 2
+    radius: 5
+  - enemyPrefab: {fileID: 3053489294453715385, guid: f529437a83d6e8043a209b73cd35af34,
+      type: 3}
+    spawnPoint: {x: 8, y: 24, z: 0}
+    spawnType: 1
+    count: 2
+    radius: 5

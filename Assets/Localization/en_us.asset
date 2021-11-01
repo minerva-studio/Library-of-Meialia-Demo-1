@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ec384df0e575dc4481f36d7aa1cd6a1, type: 3}
+  m_Name: en_us
+  m_EditorClassIdentifier: 
+  language: 0
+  missingKeySolution: 0
+  dictionary:
+    list:
+    - key: Amlos.PlayerWordLine.AlmostHurt.0
+      value: No you can't get me.
+    - key: Amlos.PlayerWordLine.AlmostHurt.1
+      value: Maybe tomorrow.
+    - key: Amlos.PlayerWordLine.AlmostHurt.2
+      value: That was close!
+    - key: Amlos.PlayerWordLine.AlmostHurt.3
+      value: Coming up!
+    - key: Amlos.PlayerWordLine.AlmostHurt.4
+      value: It is fine.
+    - key: Amlos.PlayerWordLine.End.0
+      value: Fine, you get me.
+    - key: Amlos.PlayerWordLine.EventName.0
+      value: Hello, Meialia!
+    - key: Amlos.PlayerWordLine.HitBooksoldier.0
+      value: Sorry booksoldier!
+    - key: Amlos.PlayerWordLine.HitMage.0
+      value: You can't catch me, human!
+    - key: Amlos.PlayerWordLine.Hurt.0
+      value: Ow!
+    - key: Amlos.PlayerWordLine.Hurt.1
+      value: Ouch!
+    - key: Amlos.PlayerWordLine.Hurt.2
+      value: Ahhhhhhhhhh!
+    - key: Amlos.PlayerWordLine.Hurt.3
+      value: Ah!
+    - key: Amlos.Room.Main1.name
+      value: Level 1
+    - key: Amlos.Room.Main10.name
+      value: Level 10
+    - key: Amlos.Room.Main2.name
+      value: Level 2
+    - key: Amlos.Room.Main3.name
+      value: Level 3
+    - key: Amlos.Room.Main4.name
+      value: Level 4
+    - key: Amlos.Room.Main5.name
+      value: Level 5
+    - key: Amlos.Room.Main6.name
+      value: Level 6
+    - key: Amlos.Room.Main7.name
+      value: Level 7
+    - key: Amlos.Room.Main8.name
+      value: Level 8
+    - key: Amlos.Room.Main9.name
+      value: Level 9
+    - key: Amlos.Room.MainHall.name
+      value: Main Hall
+    - key: Amlos.UI.Common.Confirm.name
+      value: Comfirm
+    - key: Amlos.UI.Common.Cancel.name
+      value: Cancel
+    - key: Amlos.UI.Common.Back.name
+      value: Back
+    - key: Amlos.UI.Common.Game.name
+      value: Library Of Meialia
+    - key: Amlos.UI.Common.Pause.name
+      value: Pause
+    - key: Amlos.UI.Common.Quit.name
+      value: Quit
+    - key: Amlos.UI.Common.Resume.name
+      value: Resume
+    - key: Amlos.UI.Common.Save.name
+      value: Save
+    - key: Amlos.UI.Common.Setting.BGM.name
+      value: Background Volume
+    - key: Amlos.UI.Common.Setting.EffectSound.name
+      value: Effect Volume
+    - key: Amlos.UI.Common.Setting.Language.name
+      value: Language
+    - key: Amlos.UI.Common.Setting.name
+      value: Setting
+    - key: Amlos.UI.Common.Tutorial.name
+      value: Tutorial
+    - key: 
+      value: 

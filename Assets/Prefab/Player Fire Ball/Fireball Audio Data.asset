@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc2672c5d5fd286438597101db466437, type: 3}
+  m_Name: Fireball Audio Data
+  m_EditorClassIdentifier: 
+  moving:
+  - {fileID: 8300000, guid: e88603005066131498de47f26c2e572d, type: 3}
+  - {fileID: 8300000, guid: adabe87f8d0d5154dbe22427cd6103cc, type: 3}
+  - {fileID: 8300000, guid: cdc8bcfc3975aee4e8c36fe7aa49893a, type: 3}
+  - {fileID: 8300000, guid: 7e80fc2753514c9438c6efb8aa558d73, type: 3}
+  - {fileID: 8300000, guid: a8e37f68703082f48a1d47031bf1ebe2, type: 3}
+  deflect:
+  - {fileID: 8300000, guid: a0ba605e9a963164c8dab7c67cffbb8b, type: 3}
+  - {fileID: 8300000, guid: 323b99b63fec21c40bc184405a10e547, type: 3}
+  explode:
+  - {fileID: 8300000, guid: 1c0007e92a06c6c46a2e646b2a6b232d, type: 3}
+  - {fileID: 8300000, guid: e264f3e5ac7ef834fb65ab8058689348, type: 3}
+  - {fileID: 8300000, guid: 7086742a8a0dd0f45b429f7684e877c1, type: 3}
+  - {fileID: 8300000, guid: 659fb53f58b1c1c449730343915ecd61, type: 3}
+  - {fileID: 8300000, guid: da04b1a7f07bf8548bb6ec2da98927d7, type: 3}
+  - {fileID: 8300000, guid: d07b027bb88fe684ca8b81fbbcb3cf81, type: 3}

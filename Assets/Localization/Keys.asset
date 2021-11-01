@@ -1,0 +1,321 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa9a739772a32a4781da4f67cd92bf8, type: 3}
+  m_Name: Keys
+  m_EditorClassIdentifier: 
+  standard: {fileID: 11400000, guid: caa25086da3795847940e4ffd4675db9, type: 2}
+  list:
+  - {fileID: 11400000, guid: caa25086da3795847940e4ffd4675db9, type: 2}
+  - {fileID: 11400000, guid: 4f90b2bc9fdabe940ac0b5cab4ccec74, type: 2}
+  - {fileID: 11400000, guid: 640de256722512b41a068ba489ccc760, type: 2}
+  textContentList:
+  - id: Amlos.PlayerWordLine.AlmostHurt.0
+    content:
+    - key: en_us
+      value: No you can't get me.
+    - key: zh_cn
+      value: 
+    - key: "zh_tw\r"
+      value: "\r"
+  - id: Amlos.PlayerWordLine.AlmostHurt.1
+    content:
+    - key: en_us
+      value: Maybe tomorrow.
+    - key: zh_cn
+      value: 
+    - key: "zh_tw\r"
+      value: "\r"
+  - id: Amlos.PlayerWordLine.AlmostHurt.2
+    content:
+    - key: en_us
+      value: That was close!
+    - key: zh_cn
+      value: 
+    - key: "zh_tw\r"
+      value: "\r"
+  - id: Amlos.PlayerWordLine.AlmostHurt.3
+    content:
+    - key: en_us
+      value: Coming up!
+    - key: zh_cn
+      value: 
+    - key: "zh_tw\r"
+      value: "\r"
+  - id: Amlos.PlayerWordLine.AlmostHurt.4
+    content:
+    - key: en_us
+      value: It is fine.
+    - key: zh_cn
+      value: 
+    - key: "zh_tw\r"
+      value: "\r"
+  - id: Amlos.PlayerWordLine.End.0
+    content:
+    - key: en_us
+      value: Fine, you get me.
+    - key: zh_cn
+      value: 
+    - key: "zh_tw\r"
+      value: "\r"
+  - id: Amlos.PlayerWordLine.EventName.0
+    content:
+    - key: en_us
+      value: Hello, Meialia!
+    - key: zh_cn
+      value: 
+    - key: "zh_tw\r"
+      value: "\r"
+  - id: Amlos.PlayerWordLine.HitBooksoldier.0
+    content:
+    - key: en_us
+      value: Sorry booksoldier!
+    - key: zh_cn
+      value: 
+    - key: "zh_tw\r"
+      value: "\r"
+  - id: Amlos.PlayerWordLine.HitMage.0
+    content:
+    - key: en_us
+      value: You can't catch me, human!
+    - key: zh_cn
+      value: 
+    - key: "zh_tw\r"
+      value: "\r"
+  - id: Amlos.PlayerWordLine.Hurt.0
+    content:
+    - key: en_us
+      value: Ow!
+    - key: zh_cn
+      value: "\u5662\uFF01"
+    - key: "zh_tw\r"
+      value: "\r"
+  - id: Amlos.PlayerWordLine.Hurt.1
+    content:
+    - key: en_us
+      value: Ouch!
+    - key: zh_cn
+      value: 
+    - key: "zh_tw\r"
+      value: "\r"
+  - id: Amlos.PlayerWordLine.Hurt.2
+    content:
+    - key: en_us
+      value: Ahhhhhhhhhh!
+    - key: zh_cn
+      value: "\u554A\u554A\u554A\u554A\u554A\u554A\u554A\u554A\u554A\u554A\u554A"
+    - key: "zh_tw\r"
+      value: "\r"
+  - id: Amlos.PlayerWordLine.Hurt.3
+    content:
+    - key: en_us
+      value: Ah!
+    - key: zh_cn
+      value: "\u554A\uFF01"
+    - key: "zh_tw\r"
+      value: "\r"
+  - id: Amlos.Room.Main1.name
+    content:
+    - key: en_us
+      value: Level 1
+    - key: zh_cn
+      value: Level 1
+    - key: "zh_tw\r"
+      value: "Level 1\r"
+  - id: Amlos.Room.Main10.name
+    content:
+    - key: en_us
+      value: Level 10
+    - key: zh_cn
+      value: Level 10
+    - key: "zh_tw\r"
+      value: "Level 10\r"
+  - id: Amlos.Room.Main2.name
+    content:
+    - key: en_us
+      value: Level 2
+    - key: zh_cn
+      value: Level 2
+    - key: "zh_tw\r"
+      value: "Level 2\r"
+  - id: Amlos.Room.Main3.name
+    content:
+    - key: en_us
+      value: Level 3
+    - key: zh_cn
+      value: Level 3
+    - key: "zh_tw\r"
+      value: "Level 3\r"
+  - id: Amlos.Room.Main4.name
+    content:
+    - key: en_us
+      value: Level 4
+    - key: zh_cn
+      value: Level 4
+    - key: "zh_tw\r"
+      value: "Level 4\r"
+  - id: Amlos.Room.Main5.name
+    content:
+    - key: en_us
+      value: Level 5
+    - key: zh_cn
+      value: Level 5
+    - key: "zh_tw\r"
+      value: "Level 5\r"
+  - id: Amlos.Room.Main6.name
+    content:
+    - key: en_us
+      value: Level 6
+    - key: zh_cn
+      value: Level 6
+    - key: "zh_tw\r"
+      value: "Level 6\r"
+  - id: Amlos.Room.Main7.name
+    content:
+    - key: en_us
+      value: Level 7
+    - key: zh_cn
+      value: Level 7
+    - key: "zh_tw\r"
+      value: "Level 7\r"
+  - id: Amlos.Room.Main8.name
+    content:
+    - key: en_us
+      value: Level 8
+    - key: zh_cn
+      value: Level 8
+    - key: "zh_tw\r"
+      value: "Level 8\r"
+  - id: Amlos.Room.Main9.name
+    content:
+    - key: en_us
+      value: Level 9
+    - key: zh_cn
+      value: Level 9
+    - key: "zh_tw\r"
+      value: "Level 9\r"
+  - id: Amlos.Room.MainHall.name
+    content:
+    - key: en_us
+      value: Main Hall
+    - key: zh_cn
+      value: "\u56FE\u4E66\u9986\u5927\u5385"
+    - key: "zh_tw\r"
+      value: "\u56FE\u4E66\u9986\u5927\u5385\r"
+  - id: Amlos.UI.Common.Confirm.name
+    content:
+    - key: en_us
+      value: Comfirm
+    - key: zh_cn
+      value: "\u786E\u8BA4"
+    - key: "zh_tw\r"
+      value: "\u786E\u8BA4\r"
+  - id: Amlos.UI.Common.Cancel.name
+    content:
+    - key: en_us
+      value: Cancel
+    - key: zh_cn
+      value: "\u53D6\u6D88"
+    - key: "zh_tw\r"
+      value: "\u53D6\u6D88\r"
+  - id: Amlos.UI.Common.Back.name
+    content:
+    - key: en_us
+      value: Back
+    - key: zh_cn
+      value: <<<
+    - key: "zh_tw\r"
+      value: "<<<\r"
+  - id: Amlos.UI.Common.Game.name
+    content:
+    - key: en_us
+      value: Library Of Meialia
+    - key: zh_cn
+      value: "\u7C73\u57C3\u5229\u4E9A\u56FE\u4E66\u9986"
+    - key: "zh_tw\r"
+      value: "\u7C73\u57C3\u5229\u4E9A\u56FE\u4E66\u9986\r"
+  - id: Amlos.UI.Common.Pause.name
+    content:
+    - key: en_us
+      value: Pause
+    - key: zh_cn
+      value: "\u6682\u505C"
+    - key: "zh_tw\r"
+      value: "\u6682\u505C\r"
+  - id: Amlos.UI.Common.Quit.name
+    content:
+    - key: en_us
+      value: Quit
+    - key: zh_cn
+      value: "\u9000\u51FA"
+    - key: "zh_tw\r"
+      value: "\u9000\u51FA\r"
+  - id: Amlos.UI.Common.Resume.name
+    content:
+    - key: en_us
+      value: Resume
+    - key: zh_cn
+      value: "\u8FD4\u56DE"
+    - key: "zh_tw\r"
+      value: "\u8FD4\u56DE\r"
+  - id: Amlos.UI.Common.Save.name
+    content:
+    - key: en_us
+      value: Save
+    - key: zh_cn
+      value: "\u4FDD\u5B58"
+    - key: "zh_tw\r"
+      value: "\u4FDD\u5B58\r"
+  - id: Amlos.UI.Common.Setting.BGM.name
+    content:
+    - key: en_us
+      value: Background Volume
+    - key: zh_cn
+      value: "\u80CC\u666F\u97F3\u91CF"
+    - key: "zh_tw\r"
+      value: "\u97F3\u91CF\r"
+  - id: Amlos.UI.Common.Setting.EffectSound.name
+    content:
+    - key: en_us
+      value: Effect Volume
+    - key: zh_cn
+      value: "\u6548\u679C\u97F3\u91CF"
+    - key: "zh_tw\r"
+      value: "\u97F3\u91CF\r"
+  - id: Amlos.UI.Common.Setting.Language.name
+    content:
+    - key: en_us
+      value: Language
+    - key: zh_cn
+      value: "\u8BED\u8A00"
+    - key: "zh_tw\r"
+      value: "\u8BED\u8A00\r"
+  - id: Amlos.UI.Common.Setting.name
+    content:
+    - key: en_us
+      value: Setting
+    - key: zh_cn
+      value: "\u8BBE\u7F6E"
+    - key: "zh_tw\r"
+      value: "\u8A2D\u7F6E\r"
+  - id: Amlos.UI.Common.Tutorial.name
+    content:
+    - key: en_us
+      value: Tutorial
+    - key: zh_cn
+      value: "\u6559\u7A0B\u5173"
+    - key: "zh_tw\r"
+      value: "\u6559\u7A0B\u95DC\r"
+  - id: 
+    content: []
+  missingKeys:
+  - id: Amlos.PlayerWordLine..0
+    content: []

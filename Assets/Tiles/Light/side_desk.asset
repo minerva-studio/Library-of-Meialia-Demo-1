@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b9a161c974a50142846394134a9bd07, type: 3}
+  m_Name: side_desk
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -7266007344547914704, guid: 844bf8bfa285e954b99cdd491d61e4f9, type: 3}
+  gameObject: {fileID: 634729123405145347, guid: d85fbc2d64b31e54caf47bf5782f3436,
+    type: 3}
+  colliderType: 1

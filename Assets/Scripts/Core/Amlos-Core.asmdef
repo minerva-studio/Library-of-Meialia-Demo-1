@@ -1,0 +1,16 @@
+{
+    "name": "Amlos-Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e7fa6d17b6908fe4b9474ded12f9968b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

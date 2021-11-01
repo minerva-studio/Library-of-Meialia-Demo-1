@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Characters
+  - Water
+  - UI
+  - Ball
+  - Platform
+  - Giant Ball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FurtherBackground
+    uniqueID: 4255504369
+    locked: 0
+  - name: CloseBackground
+    uniqueID: 1975819701
+    locked: 0
+  - name: Object
+    uniqueID: 3695061695
+    locked: 0
+  - name: Decor
+    uniqueID: 2103747377
+    locked: 0
+  - name: Platform
+    uniqueID: 168383171
+    locked: 0
+  - name: Floor
+    uniqueID: 691071935
+    locked: 0
+  - name: Wall
+    uniqueID: 847250187
+    locked: 0
+  - name: Player
+    uniqueID: 2122457955
+    locked: 0
+  - name: Fireball
+    uniqueID: 1454737515
+    locked: 0
+  - name: UI
+    uniqueID: 1307807577
+    locked: 0
